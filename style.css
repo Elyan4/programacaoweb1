@@ -1,0 +1,64 @@
+/*Cascading Stylesheet - CSS */
+*{
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
+main {
+  background: url(https://images2.alphacoders.com/923/923643.png);
+  width: 1366px;
+  height: 778px;
+  background-size: cover;
+  text-align: center;
+  text: emphasis 10px;;
+}
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+h1 {
+  font-size: 2rem;
+  color: white;
+  text-shadow: 0.5cm;
+}
+h2 {
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: 0.5cm;
+}
+.content1{
+  text-align: left;
+  color: black;
+}
+
+h3 {
+  font-size: 2rem;
+}
+a {
+  font-size: 1.5rem;
+}
+.content2{
+  text-align: left;
+  color: black;
+}
+h4 {
+  font-size: 2rem;
+}
+h4-1 {
+  font-size: 1.5rem;
+}
+.content3 {
+  text-align: left;
+  color: black;
+}
+h5 {
+  font-size: 2rem;
+}
+h5-1 {
+  font-size: 1.5rem;
+}
